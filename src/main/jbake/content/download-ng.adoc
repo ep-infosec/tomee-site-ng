@@ -1,0 +1,45 @@
+= Downloads
+:jbake-date: 2015-04-05
+:jbake-type: page
+:jbake-status: published
+:jbake-tomeepdf:
+:icons: font
+
+IMPORTANT: Note: Only the TomEE 1.x WebProfile and JAX-RS distributions are certified.
+
+[.table.table-bordered,options="header"]
+|===
+
+|Name|Version|Date|Size|Type|Links
+
+|TomEE plume|7.0.5|23 Jul 2018|60 MB |TAR.GZ| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/apache-tomee-7.0.5-plume.tar.gz[icon:download[] TAR.GZ] https://www.apache.org/dist/tomee/tomee-7.0.5/apache-tomee-7.0.5-plume.tar.gz.sha1[icon:download[] SHA1]
+|TomEE plume|7.0.5|23 Jul 2018|61 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/apache-tomee-7.0.5-plume.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-7.0.5/apache-tomee-7.0.5-plume.zip.sha1[icon:download[] SHA1]
+|TomEE plus|7.0.5|23 Jul 2018|54 MB |TAR.GZ| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/apache-tomee-7.0.5-plus.tar.gz[icon:download[] TAR.GZ] https://www.apache.org/dist/tomee/tomee-7.0.5/apache-tomee-7.0.5-plus.tar.gz.sha1[icon:download[] SHA1]
+|TomEE plus|7.0.5|23 Jul 2018|54 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/apache-tomee-7.0.5-plus.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-7.0.5/apache-tomee-7.0.5-plus.zip.sha1[icon:download[] SHA1]
+|TomEE webprofile|7.0.5|23 Jul 2018|38 MB |TAR.GZ| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/apache-tomee-7.0.5-webprofile.tar.gz[icon:download[] TAR.GZ] https://www.apache.org/dist/tomee/tomee-7.0.5/apache-tomee-7.0.5-webprofile.tar.gz.sha1[icon:download[] SHA1]
+|TomEE webprofile|7.0.5|23 Jul 2018|38 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/apache-tomee-7.0.5-webprofile.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-7.0.5/apache-tomee-7.0.5-webprofile.zip.sha1[icon:download[] SHA1]
+|OpenEJB Standalone|7.0.5|23 Jul 2018|37 MB |TAR.GZ| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/openejb-standalone-7.0.5.tar.gz[icon:download[] TAR.GZ] https://www.apache.org/dist/tomee/tomee-7.0.5/openejb-standalone-7.0.5.tar.gz.sha1[icon:download[] SHA1]
+|OpenEJB Standalone|7.0.5|23 Jul 2018|37 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/openejb-standalone-7.0.5.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-7.0.5/openejb-standalone-7.0.5.zip.sha1[icon:download[] SHA1]
+|TomEE Plume Webapp|7.0.5|23 Jul 2018|52 MB |WAR| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/tomee-plume-webapp-7.0.5.war[icon:download[] WAR] https://www.apache.org/dist/tomee/tomee-7.0.5/tomee-plume-webapp-7.0.5.war.sha1[icon:download[] SHA1]
+|TomEE Plus Webapp|7.0.5|23 Jul 2018|45 MB |WAR| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/tomee-plus-webapp-7.0.5.war[icon:download[] WAR] https://www.apache.org/dist/tomee/tomee-7.0.5/tomee-plus-webapp-7.0.5.war.sha1[icon:download[] SHA1]
+|TomEE Project source-release|7.0.5|23 Jul 2018|12 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/tomee-project-7.0.5-source-release.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-7.0.5/tomee-project-7.0.5-source-release.zip.sha1[icon:download[] SHA1]
+|TomEE Webapp|7.0.5|23 Jul 2018|29 MB |WAR| https://www.apache.org/dyn/closer.cgi/tomee/tomee-7.0.5/tomee-webapp-7.0.5.war[icon:download[] WAR] https://www.apache.org/dist/tomee/tomee-7.0.5/tomee-webapp-7.0.5.war.sha1[icon:download[] SHA1]
+||||||
+|TomEE plume|1.7.5|27 Sep 2017|49 MB |TAR.GZ| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/apache-tomee-1.7.5-plume.tar.gz[icon:download[] TAR.GZ] https://www.apache.org/dist/tomee/tomee-1.7.5/apache-tomee-1.7.5-plume.tar.gz.sha1[icon:download[] SHA1]
+|TomEE plume|1.7.5|27 Sep 2017|49 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/apache-tomee-1.7.5-plume.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-1.7.5/apache-tomee-1.7.5-plume.zip.sha1[icon:download[] SHA1]
+|TomEE plus|1.7.5|27 Sep 2017|41 MB |TAR.GZ| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/apache-tomee-1.7.5-plus.tar.gz[icon:download[] TAR.GZ] https://www.apache.org/dist/tomee/tomee-1.7.5/apache-tomee-1.7.5-plus.tar.gz.sha1[icon:download[] SHA1]
+|TomEE plus|1.7.5|27 Sep 2017|42 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/apache-tomee-1.7.5-plus.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-1.7.5/apache-tomee-1.7.5-plus.zip.sha1[icon:download[] SHA1]
+|TomEE jaxrs|1.7.5|27 Sep 2017|33 MB |TAR.GZ| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/apache-tomee-1.7.5-jaxrs.tar.gz[icon:download[] TAR.GZ] https://www.apache.org/dist/tomee/tomee-1.7.5/apache-tomee-1.7.5-jaxrs.tar.gz.sha1[icon:download[] SHA1]
+|TomEE jaxrs|1.7.5|27 Sep 2017|33 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/apache-tomee-1.7.5-jaxrs.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-1.7.5/apache-tomee-1.7.5-jaxrs.zip.sha1[icon:download[] SHA1]
+|TomEE webprofile|1.7.5|27 Sep 2017|29 MB |TAR.GZ| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/apache-tomee-1.7.5-webprofile.tar.gz[icon:download[] TAR.GZ] https://www.apache.org/dist/tomee/tomee-1.7.5/apache-tomee-1.7.5-webprofile.tar.gz.sha1[icon:download[] SHA1]
+|TomEE webprofile|1.7.5|27 Sep 2017|30 MB |ZIP| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/apache-tomee-1.7.5-webprofile.zip[icon:download[] ZIP] https://www.apache.org/dist/tomee/tomee-1.7.5/apache-tomee-1.7.5-webprofile.zip.sha1[icon:download[] SHA1]
+|TomEE Plume Webapp|1.7.5|27 Sep 2017|41 MB |WAR| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/tomee-plume-webapp-1.7.5.war[icon:download[] WAR] https://www.apache.org/dist/tomee/tomee-1.7.5/tomee-plume-webapp-1.7.5.war.sha1[icon:download[] SHA1]
+|TomEE Plus Webapp|1.7.5|27 Sep 2017|33 MB |WAR| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/tomee-plus-webapp-1.7.5.war[icon:download[] WAR] https://www.apache.org/dist/tomee/tomee-1.7.5/tomee-plus-webapp-1.7.5.war.sha1[icon:download[] SHA1]
+|TomEE Webapp|1.7.5|27 Sep 2017|21 MB |WAR| https://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.5/tomee-webapp-1.7.5.war[icon:download[] WAR] https://www.apache.org/dist/tomee/tomee-1.7.5/tomee-webapp-1.7.5.war.sha1[icon:download[] SHA1]
+
+|===
+
+
+- link:download-archive.html[Older versions can be found here]
+
+https://www.apache.org/dist/tomee/tomee-7.0.5/apache-tomee-7.0.5-plume.tar.gz.sha1
